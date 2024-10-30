@@ -97,3 +97,5 @@ Antes de continuar, certifique-se de que os seguintes itens estejam instalados:
 - [FlutterFire CLI](https://firebase.flutter.dev/docs/cli/)
 ```
 Neste repositorio tem um código de exemplo utilizando o firebase com o flutter.
+
+Caso tenha alguma duvida em como configurar o Firebase com o projeto flutter pode utilizar esse vídeo como referencia https://www.youtube.com/watch?v=x-B1JVxjUSA
