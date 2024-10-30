@@ -11,7 +11,7 @@ Este guia explica como configurar um projeto Flutter com Firebase usando a Flutt
 
 Antes de continuar, certifique-se de que os seguintes itens estejam instalados:
 
-- **Firebase CLI**: Instale a Firebase CLI e faça login com `firebase login`.
+- **Firebase CLI**: Instale a Firebase CLI e faça login com `firebase login`. ([Guia de instalação do FirebaseCLI](https://firebase.google.com/docs/cli?hl=pt&authuser=0#install_the_firebase_cli)).
 - **SDK do Flutter**: Certifique-se de ter o Flutter instalado ([Guia de instalação do Flutter](https://docs.flutter.dev/get-started/install)).
 
 ---
