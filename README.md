@@ -96,7 +96,4 @@ Antes de continuar, certifique-se de que os seguintes itens estejam instalados:
 - [Console do Firebase](https://console.firebase.google.com/)
 - [FlutterFire CLI](https://firebase.flutter.dev/docs/cli/)
 ```
-
----
-
-Esse `README.md` já está formatado para você colar no seu repositório no GitHub. Se precisar de mais ajustes, me avise!
+Neste repositorio tem um código de exemplo utilizando o firebase com o flutter.
