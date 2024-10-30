@@ -2,7 +2,7 @@ Aqui está o `README.md` formatado para você copiar e colar no GitHub:
 
 ---
 
-```markdown
+
 # Configuração do Projeto Flutter com Firebase Usando FlutterFire CLI
 
 Este guia explica como configurar um projeto Flutter com Firebase usando a FlutterFire CLI, o jeito mais fácil de começar a utilizar o Firebase no Flutter.
