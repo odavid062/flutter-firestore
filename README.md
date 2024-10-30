@@ -1,4 +1,6 @@
-Aqui está um `README.md` utilizando as informações que você forneceu:
+Aqui está o `README.md` formatado para você copiar e colar no GitHub:
+
+---
 
 ```markdown
 # Configuração do Projeto Flutter com Firebase Usando FlutterFire CLI
@@ -95,4 +97,6 @@ Antes de continuar, certifique-se de que os seguintes itens estejam instalados:
 - [FlutterFire CLI](https://firebase.flutter.dev/docs/cli/)
 ```
 
-Este `README.md` guia você passo a passo na configuração do Firebase usando a FlutterFire CLI. Se precisar de mais alguma coisa, estou à disposição!
+---
+
+Esse `README.md` já está formatado para você colar no seu repositório no GitHub. Se precisar de mais ajustes, me avise!
